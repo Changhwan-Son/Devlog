@@ -12,7 +12,7 @@ draft: false
 
 ### 이전 블로그 주소
 
-sonch.tistory.com
+https://sonch.tistory.com
 
 ---
 
