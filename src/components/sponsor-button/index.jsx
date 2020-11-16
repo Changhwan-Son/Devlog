@@ -4,6 +4,7 @@ import './index.scss'
 
 export const SponsorButton = ({ sponsorId }) => (
   <div className="sponsor-button">
+    {/*
     <a
       className="bmc-button"
       target="_blank"
@@ -16,5 +17,6 @@ export const SponsorButton = ({ sponsorId }) => (
       />
       <span>Buy me a coffee</span>
     </a>
+    */}
   </div>
 )
