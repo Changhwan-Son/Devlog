@@ -1,5 +1,5 @@
 module.exports = {
-  title: `Changhwan Devlog`,
+  title: `changhwan.dev`,
   description: `공부한 것을 코드와 글로 기록합니다. `,
   author: `Changhwan`,
   introduction: `공부한 것을 코드와 글로 기록합니다. `,
