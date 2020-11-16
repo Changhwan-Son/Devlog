@@ -25,6 +25,7 @@ export const Category = ({ categories, category, selectCategory }) => {
       id="category"
       style={{
         margin: `0 -${rhythm(3 / 4)}`,
+        marginBottom: '16px'
       }}
     >
       <Item title={'전체'} selectedCategory={category} onClick={selectCategory} scrollToCenter={scrollToCenter} />
