@@ -1,12 +1,12 @@
 module.exports = {
-  title: `Bee starter`,
-  description: `Blog posted about ...`,
-  author: `[Your Name]`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  title: `Changhwan Devlog`,
+  description: `Studies and Diaries by Changhwan`,
+  author: `Changhwan`,
+  introduction: `Studying Programming. Java, , Spring, React ... etc`,
+  siteUrl: `https://changhwan-devlog.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `Changhwan-Son`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -26,5 +26,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: '', // Add your google analytics tranking ID
+  ga: 'sonch96', // Add your google analytics tranking ID
 }
