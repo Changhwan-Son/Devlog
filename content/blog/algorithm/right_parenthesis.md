@@ -1,6 +1,6 @@
 ---
-title: [프로그래머스 - JAVA] 연습문제 - Level 2 올바른 괄호
-date: 2020-11-17 
+title: "[프로그래머스 - JAVA] 연습문제 - Level 2 올바른 괄호"
+date: 2020-11-17 12:52:34
 category: Algorithm
 thumbnail: { thumbnailSrc }
 draft: false
@@ -40,3 +40,7 @@ class Solution {
     }
 }
 ```
+
+
+---
+- 처음에 문자열 s를 split()을 이용하여 문자 하나씩을 문자열로 바꿔 문자열 배열을 만들어 위와 같은 방법으로 했는데 효율성 테스트에서 시간 초과가 나더라. 문자로 보는 것이 훨씬 빠른가보다. 
