@@ -7,9 +7,9 @@ module.exports = {
   social: {
     twitter: ``, // Your Twitter account
     github: `Changhwan-Son`, // Your GitHub account
-    medium: ``, // Your Medium account
+    linkedin: ``, // Your linkedin account
     facebook: `sonch96@hanmail.net`, // Your Facebook account
-    rocketpunch: `sonch7132`, // Your LinkedIn account
+    rocketpunch: `sonch7132`, // Your RocketPunch account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
