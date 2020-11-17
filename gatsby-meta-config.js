@@ -1,9 +1,9 @@
 module.exports = {
-  title: `changhwan.dev`,
+  title: `hwan.dev`,
   description: `공부한 것을 코드와 글로 기록합니다. `,
   author: `Changhwan`,
   introduction: `공부한 것을 코드와 글로 기록합니다. `,
-  siteUrl: `https://changhwan-devlog.netlify.app`, // Your blog site url
+  siteUrl: `https://hwan.dev`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `Changhwan-Son`, // Your GitHub account
