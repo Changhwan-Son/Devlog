@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://changhwan-devlog.netlify.app',
-        sitemap: 'https://changhwan-devlog.netlify.app/sitemap.xml',
+        host: 'https://hwan.dev',
+        sitemap: 'https://hwan.dev/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
     },
