@@ -1,5 +1,5 @@
 ---
-title: 자바스크립트 간단 문법
+title: 자바스크립트 간단 문법 정리
 date: 2020-11-17 11:53:11
 category: javascript
 thumbnail: { thumbnailSrc }
