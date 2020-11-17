@@ -7,6 +7,8 @@ import { Footer } from '../components/footer'
 import { rhythm } from '../utils/typography'
 
 import './index.scss'
+<meta name="google-site-verification" content="RO7vl6u5p-qM2WZSjWFBgFAAHM-g8_aRcxO8CbZB-iQ" />
+
 
 export const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
