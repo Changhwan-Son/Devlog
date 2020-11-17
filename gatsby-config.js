@@ -25,6 +25,14 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://changhwan-devlog.netlify.app',
+        sitemap: 'https://changhwan-devlog.netlify.app/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -103,3 +111,5 @@ module.exports = {
     `gatsby-plugin-sitemap`,
   ],
 }
+
+

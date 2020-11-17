@@ -7,6 +7,8 @@ draft: false
 ---
   
 ## 문제
+[[프로그래머스 - JAVA] 연습문제 - Level 2 올바른 괄호](https://www.notion.so/JAVA-Level-2-faf610c2d70548c6a797e462807a803e)
+
  ![](./images/right_parenthesis.png)
 
 ## 풀이
