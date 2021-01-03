@@ -1,4 +1,11 @@
 # changhwan-devlog
+https://hwan.dev
+
+개발 블로그
+
+
+주로 알고리즘 문제 풀이와 cs 공부 내용, 프로젝트 진행 글들이 올라갑니다. 
+
 
 My blog built with [Gastby starter bee](https://github.com/JaeYeopHan/gatsby-starter-bee).
 
