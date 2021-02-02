@@ -1,5 +1,5 @@
 ---
-title: "[백준 - JAVA] DFS - Silver 2 섬의 개수"
+title: "[백준 - JAVA] DFS - Silver 2 섬의 개수(4963)"
 date: 2021-02-02 20:26:34
 category: Algorithm
 thumbnail: { thumbnailSrc }
